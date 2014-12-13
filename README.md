@@ -1,10 +1,6 @@
 # Introduction
 This is the repository for course project of "Getting and Cleaning Data" on Coursera.
-<<<<<<< HEAD
 It contains four files. 
-=======
-It contains four files.
->>>>>>> origin/master
 
 1. README.md with the information about the repository.
 2. run_analysis.R is the R code for implementing the project.
