@@ -1,6 +1,6 @@
 # Introduction
 This is the repository for course project of "Getting and Cleaning Data" on Coursera.
-It contains four file.
+It contains four files.
 1. README.md with the information about the repository
 2. run_analysis.R is the R code for implementing the project
 3. Codebook.md is the codebook for run_analysis.R with the data set information and how to implement data cleaning
